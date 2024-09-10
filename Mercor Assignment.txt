@@ -1,0 +1,16 @@
+Summary---
+1)Preprocessing: Handle categorical features and split data.
+2)BERT Embeddings: Convert text data into numerical embeddings.
+3)Feature Combination: Combine embeddings with other features.
+4)Model Training: Train an XGBoost classifier on the combined features.
+5)Evaluation: Assess model performance and accuracy.
+6)Prediction: Make predictions on new data using the trained model.
+
+No null value is found.
+Accuracy is near to 90%.
+Code is in jupyter notebook.
+First analysis is done which was hidden and the code for model and testing new data is shared.
+This all can be done on this short period of time, and hoping the result is satisfying :).
+
+With regards,
+Sayed Junaid
